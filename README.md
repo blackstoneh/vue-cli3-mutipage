@@ -1,4 +1,4 @@
-# test-muti
+# 针对vue-cli3的多页面简单示例
 
 ## Project setup
 ```
